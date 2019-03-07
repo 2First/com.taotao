@@ -14,6 +14,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="generatorSqlmapCustom" target="1.7" />
       <module name="taotao-common" target="1.7" />
       <module name="taotao-manager" target="1.7" />
       <module name="taotao-manager-mapper" target="1.7" />
